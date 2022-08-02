@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}/bentoml</path>
+        <path>/${PROJECT_DIR_NAME}/examples/mlflow/sklearn_autolog</path>
+        <path>/${PROJECT_DIR_NAME}/examples/pytorch_mnist/tests</path>
+        <path>/${PROJECT_DIR_NAME}/examples/tensorflow2_keras/tests</path>
+        <path>/${PROJECT_DIR_NAME}/tests/e2e/bento_server_general_features/tests</path>
+        <path>/${PROJECT_DIR_NAME}/tests/integration</path>
+        <path>/${PROJECT_DIR_NAME}/tests/unit</path>
+        <path>/${PROJECT_DIR_NAME}/tests/utils</path>
+        <path>/${PROJECT_DIR_NAME}/typings</path>
+    </pydev_pathproperty>
+</pydev_project>
